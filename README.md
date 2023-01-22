@@ -8,6 +8,7 @@
 2. Frontend
     - React
     - TailwindCSS
+    - Radix
 3. Mobile
     - React Native
     - Expo
